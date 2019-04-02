@@ -1,0 +1,37 @@
+*{
+    background-color : rgb(241, 237, 231);
+}
+#title {
+    color:cadetblue;
+    font-size : 24px;
+}
+.head {
+    display : center;
+}
+
+.logo {
+    height: 200px;
+    border-style :double;
+    background-color: rgb(18, 10, 61);
+    font-size : 15px;
+    color : white;
+}
+.footer {
+    text-align: center;
+    background-color: rgb(18, 10, 61);
+    border-style:double;
+    color : white;
+}
+h2
+{
+    background-color : rgb(18, 10, 61);
+}
+
+c
+{
+    font-size : 10px;
+}
+asd
+{
+    color : white;
+}
